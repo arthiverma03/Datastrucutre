@@ -1,0 +1,11 @@
+
+number = [10,20,30,40,50];
+print(number[2]);
+
+number[2] = 200;
+print(number[2]);
+
+//iterte number
+
+for num in number;
+print(num);
